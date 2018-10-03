@@ -11,5 +11,6 @@
   <modules>
     <module>probablity</module>
     <module>divide_and_conquer</module>
+    <module>sorting</module>
   </modules>
 </project>
