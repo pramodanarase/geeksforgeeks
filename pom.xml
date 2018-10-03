@@ -12,5 +12,10 @@
     <module>probablity</module>
     <module>divide_and_conquer</module>
     <module>sorting</module>
+    <module>greedy</module>
+    <module>dynamic_programming</module>
+    <module>branch_and_bound</module>
+    <module>brute_force</module>
+    <module>randomized</module>
   </modules>
 </project>
