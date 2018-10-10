@@ -17,5 +17,7 @@
     <module>branch_and_bound</module>
     <module>brute_force</module>
     <module>randomized</module>
+    <module>matrix</module>
+    <module>interview</module>
   </modules>
 </project>
