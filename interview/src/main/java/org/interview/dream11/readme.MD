@@ -15,3 +15,5 @@ Option  Team A   Team B  Strength  Difference
   7     [a,d]    [c,e]      13        1
 Option 1 and option 2 are winning combinations as their total strength is 15 (maximum), while their difference in strength is closer to the minimum than options 3 and 4.
 ```
+
+https://stackoverflow.com/questions/51222876/partition-n-players-into-two-teams-of-size-k-and-equal-or-minimally-different
