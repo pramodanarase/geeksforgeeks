@@ -35,3 +35,9 @@ Dendoncker (6) Januzaj (9) Chadli (51) Mignolet (21) Carrasco (30) Courtois (65)
 Boyata (10) Tielemans (13) Batshuayi (19) Meunier (30) T. Hazard (13) De Bruyne (68) Lukaku (75) Dembele (80) Alderweireld (83) E. Hazard (92) Vertonghen (108)
 → team strength = 591
 ```
+
+
+Solution:
+1. https://en.wikipedia.org/wiki/Partition_problem
+2. https://en.wikipedia.org/wiki/Birthday_problem
+3. https://en.wikipedia.org/wiki/Subset_sum_problem
